@@ -1,0 +1,17 @@
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong{
+    color: #22D4FD;
+
+  
+    img {
+    width: 300px;
+    height: 200px;
+    }
+
+.inline {
+    display: inline;
+}
